@@ -1,4 +1,4 @@
-### Project Overview
+### Hospitality Project Overview
 
 This project involves three key stages:
 
